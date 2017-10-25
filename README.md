@@ -1,6 +1,8 @@
 # LevenshteinEditDistance
 Levenshtein Edit Distance algorithm in Javascript (node.js) for measuring the similarity between 2 sequences, and find the minimum edit path of it.
 
+Arranged by : Mira Nurhayati (1403754) 
+
 # Requirements :
 Node.js
 
