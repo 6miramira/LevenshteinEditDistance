@@ -6,10 +6,13 @@ Node.js
 
 # How to use :
 <ol>
-  <li>Clone / download this repository using <code>git clone https://github.com/6miramira/LevenshteinEditDistance.git</code> command.</li>
+  <li>Install node.js</li>
+  <li>Clone this repository using <code>git clone https://github.com/6miramira/LevenshteinEditDistance.git</code> command, or download as .zip and save to your computer.</li>
   <li>Open node.js terminal / command prompt in Git bash.</li>
-  <li>Go to the folder where you clone this repository</li>
-  <li>Write <code>node levenshtein.js &lsaquo;First_Word&rsaquo; &lsaquo;Second_Word&rsaquo;</code></li>
+  <li>Go to the directory where you clone this repository</li>
+  <li>Write <code>node levenshteindist.js &lsaquo;First_Word&rsaquo; &lsaquo;Second_Word&rsaquo;</code> to see the minimum edit distance of &lsaquo;First_Word&rsaquo; and &lsaquo;Second_Word&rsaquo;<br/>
+  Sample : <code>node levenshteindist.js DELETION INSERTION</code>
+  </li>
 </ol>
 
 # Documentation :
